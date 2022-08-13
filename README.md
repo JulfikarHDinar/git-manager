@@ -2,10 +2,10 @@
  <br/>
 We are about to create a GIT Manager on console using Python 3. We cannot use any database or UI framework. For Managing GIT we need to follow our custom command. Our Commands is listed below - <br/>
  <br/>
-**1. git init** <br/>
+**1. git init**   <br/>
 -- This command will be the start of GIT Manager. Without this command, we cannot execute other command. <br/>
  <br/>
-**2. git commit "commit message"** <br/>
+**2. git commit "commit message"**   <br/>
 -- By this command, we will store this commit message with a auto generated sequence number. The sequence number must be integer and start with 1. <br/>
 
 **3. git show commit** <br/>
